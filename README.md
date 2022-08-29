@@ -9,7 +9,7 @@ Juancho_Codes API
 </p>
 
 <h2>TAKE NOTE! It's not yet deployed, but you can simply clone or perhaps fork it into your repo. Go crazy about how you
-    you'd deploy it. Sky is the limit regardless. </h2>
+    would deploy it. Sky is the limit regardless. </h2>
     
     
 <p>Happy Coding!</p>
